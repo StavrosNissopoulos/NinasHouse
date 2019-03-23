@@ -1,0 +1,36 @@
+i.eci{ 
+display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+@font-face {
+ font-family: 'ahouse';
+  src: url('fontello-60f50dbb.zip/fontello-60f50dbb/font/ahouse.eot?86621519');
+  src: url('fontello-60f50dbb.zip/fontello-60f50dbb/font/ahouse.eot?86621519#iefix') format('embedded-opentype'),
+       url('fontello-60f50dbb.zip/fontello-60f50dbb/font/ahouse.woff2?86621519') format('woff2'),
+       url('fontello-60f50dbb.zip/fontello-60f50dbb/font/ahouse.woff?86621519') format('woff'),
+       url('fontello-60f50dbb.zip/fontello-60f50dbb/font/ahouse.ttf?86621519') format('truetype'),
+       url('fontello-60f50dbb.zip/fontello-60f50dbb/font/ahouse.svg?86621519#ahouse') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.ahouse-home::before { content: '\e801'; font-family: 'ahouse'; }
+
+
+@font-face {
+ font-family: 'house';
+  src: url('fontello-7686cbe7.zip/fontello-7686cbe7/font/house.eot?760256826');
+  src: url('fontello-7686cbe7.zip/fontello-7686cbe7/font/house.eot?760256826#iefix') format('embedded-opentype'),
+       url('fontello-7686cbe7.zip/fontello-7686cbe7/font/house.woff2?760256826') format('woff2'),
+       url('fontello-7686cbe7.zip/fontello-7686cbe7/font/house.woff?760256826') format('woff'),
+       url('fontello-7686cbe7.zip/fontello-7686cbe7/font/house.ttf?760256826') format('truetype'),
+       url('fontello-7686cbe7.zip/fontello-7686cbe7/font/house.svg?760256826#house') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.house-househome::before { content: '\e801'; font-family: 'house'; }
+
+

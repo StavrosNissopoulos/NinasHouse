@@ -1,0 +1,16 @@
+{
+  "name": "house",
+  "css_prefix_text": "icon-house",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "829c06a0a3b73b02a6224f4bbb73d99c",
+      "css": "home",
+      "code": 59393,
+      "src": "elusive"
+    }
+  ]
+}
